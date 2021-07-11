@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "deploy": "ng build --prod --base-href https://1998-creator.github.io/myFlix-Angular-client/ && angular-cli-ghpages --branch gh-pages"
+    "deploy": "ng build --prod --base-href https://1998-creator.github.io/myFlix-Angular-client/"
   },
   "private": true,
   "dependencies": {
